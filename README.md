@@ -1,3 +1,4 @@
+# OCR_adv_attack
 OCR Adversarial Attack Studing Record
 ======================================
 This project implements the FGSM and PGD attack on OCR in pytorch. And use the crnn model as the target model, the Origin project could be found in [crnn.pytorch](https://github.com/meijieru/crnn.pytorch)
@@ -12,6 +13,4 @@ Then launch the demo by:
 
 The demo reads an example image, then make the FGSM and PCG attack.
 
-# OCR_adv_attack
-# ocr_adv_attack
-# ocr_adv_attack
+
